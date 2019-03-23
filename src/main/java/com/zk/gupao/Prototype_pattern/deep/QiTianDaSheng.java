@@ -57,5 +57,13 @@ public class QiTianDaSheng extends Monkey implements Cloneable,Serializable {
         return  qiTianDaSheng;
     }
 
+    public static void main(String[] args) {
+        String gitUrl="asda/hhhh/git.git";
+        int k=gitUrl.lastIndexOf("/");
+        int l=gitUrl.indexOf(".");
+        String str=gitUrl.substring(k+1,l);
+        System.out.println(str);
+    }
+
 
 }
