@@ -1,4 +1,4 @@
-package com.zk.gupao.Prototype_pattern.simple;
+package com.zk.gupao.prototype_pattern.simple;
 
 import java.util.ArrayList;
 import java.util.List;

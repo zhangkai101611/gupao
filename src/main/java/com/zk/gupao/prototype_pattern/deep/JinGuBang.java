@@ -1,4 +1,4 @@
-package com.zk.gupao.Prototype_pattern.deep;
+package com.zk.gupao.prototype_pattern.deep;
 
 import java.io.Serializable;
 

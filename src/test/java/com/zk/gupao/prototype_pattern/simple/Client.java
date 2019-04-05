@@ -1,4 +1,4 @@
-package com.zk.gupao.Prototype_pattern.simple;
+package com.zk.gupao.prototype_pattern.simple;
 
 /**
  * @program: gupao_pattern_mode
